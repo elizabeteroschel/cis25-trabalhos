@@ -1,0 +1,4 @@
+2025-23-07,coffee,food,4,0
+2025-07-23,coffee,food,6,0
+2025-07-23,Lunch,food,19,0
+2025-07-23,Salary,income,1000,1
